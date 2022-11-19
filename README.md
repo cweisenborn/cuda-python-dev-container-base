@@ -1,1 +1,1 @@
-# cuda-python-dev-container-base
+# CUDA/Python Machine Learning Dev Container Base
