@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+typing_extensions
+hypothesis
+pytest
+numpy
+scipy
+torch
+torchvision
+torchaudio
+tensorflow==2.5.0
+tensorrt
+protobuf==3.19.6
